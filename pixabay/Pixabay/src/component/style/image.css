@@ -1,0 +1,19 @@
+.img_grid{
+    margin: 30px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns:repeat(3 ,150px);
+    grid-template-rows: repeat(3 ,120);
+    order: 3;
+}
+.grid_item>div{
+    padding: 10px;
+    background-color: blue;
+    border-radius: 5px;
+    display: grid;
+    place-items: center;
+    font-size: 24px;
+    width: 50px;
+    height: 40px;
+    
+}
