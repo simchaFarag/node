@@ -1,4 +1,5 @@
-# Well structured NodeJS project to manage and sort images.
+# NodeJS Images Framework
+## Well structured NodeJS project to manage and sort images.
 
 ### Features:
 - Use express.js to build rest api.
